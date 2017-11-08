@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 
 ##############################################################################
-# Este código pregunta ó usuario daots persoais e mostra a ficha obtida
+# Este código pregunta ó usuario datos persoais e mostra a ficha obtida
 #
-# Nome de ficheiro: 
+# Nome de ficheiro:
 # Autor:
 # URL:
 # Repositorio:
@@ -11,9 +11,9 @@
 #
 ##############################################################################
 
-# Pregunta ó usuario o seu nome 
+# Pregunta ó usuario o seu nome
 
-# Mostra en pantalla un saúdo persoalizado 
+# Mostra en pantalla un saúdo persoalizado
 
 # Pregunta ó usuario o seu DNI
 
@@ -21,4 +21,4 @@
 
 # Pregunta a localidade
 
-# Mostra en pantalla un os datos obtidos
+# Mostra en pantalla os datos obtidos
