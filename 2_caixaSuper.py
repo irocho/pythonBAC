@@ -1,6 +1,3 @@
-
-
-
 # Engade arriba a primeira liña de todos os .py
 
 ######################################################
@@ -13,7 +10,7 @@
 #
 ######################################################
 
-# Saúda educadamente ó usuario
+# Saúda educadamente ao usuario
 
 
 # Pide  o prezo do primeiro producto
@@ -25,4 +22,4 @@
 # Pide o prezo do terceiro producto
 
 
-# Mostra na pantalla a suma dos tres prezos
+# Mostra na pantalla a suma dos tres prezos, en bonito, como se fose o ticket de compra
