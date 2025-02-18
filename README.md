@@ -1,4 +1,4 @@
-<img src="https://irocho.github.io/imaxes/logo.png" alt="" />
+ <a href="https://irocho.wordpress.com"> <img src="https://irocho.github.io/imaxes/logo.png" alt="A nosa web" /></a>
 
 Ideas de programación usando python.
 
