@@ -4,6 +4,6 @@ def pregunta(english,galego):
 	if resposta==galego:
 		print("Good")
 	else:
-		print("bad")
+		print("Bad")
 
 pregunta("house", "casa")
