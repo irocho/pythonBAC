@@ -11,11 +11,11 @@
 #
 ##############################################################################
 
-# Pregunta ó usuario o seu nome
+# Pregunta ao usuario o seu nome
 
 # Mostra en pantalla un saúdo persoalizado
 
-# Pregunta ó usuario o seu DNI
+# Pregunta ao usuario o seu DNI
 
 # Pregunta a idade
 
