@@ -2,7 +2,7 @@
 # Engade arriba a primeira liña de todos os .py
 
 ######################################################
-# Este código convirte os XB que dá  o usuario en MB
+# Este código convirte os xigas que dá  o usuario en MB
 #
 # Nome de ficheiro: 
 # Autor:
@@ -13,8 +13,8 @@
 
 # Mostra en pantalla unha indicación do que tenque facer o usuario
 
-# Pregunta ó usuario cantos xigas ten
+# Pregunta ao usuario cantos xigas ten
 
 # Convirte os xigas a megas
 
-# Mostra ó usuario a resposta
+# Mostra ao usuario a resposta
